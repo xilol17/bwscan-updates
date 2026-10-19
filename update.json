@@ -1,0 +1,10 @@
+{
+  "versionCode": 4,
+  "versionName": "2.2",
+  "apk": "https://raw.githubusercontent.com/xilol17/bwscan-updates/main/BWScan-2.2.apk",
+  "sha256": "c7b0f89056a432a79d41734c26d440dcd815ad71bf0f3eb8e86019ff189c1036",
+  "size": 354020,
+  "notes": "新增：6 套主题配色（设置 › 外观），默认改为墨蓝\n新增：中英文双语（设置 › 外观 › 语言）\n新增：应用内自动更新\n新增：免费 API Key 图文教程",
+  "notes_en": "New: 6 colour themes (Settings › Appearance)\nNew: English / Chinese interface\nNew: in-app updates\nNew: step-by-step guide for free AI API keys",
+  "minVersionCode": 0
+}
