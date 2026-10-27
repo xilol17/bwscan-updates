@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
-  "apk": "https://raw.githubusercontent.com/xilol17/bwscan-updates/main/BWScan-2.2.apk",
-  "sha256": "c7b0f89056a432a79d41734c26d440dcd815ad71bf0f3eb8e86019ff189c1036",
-  "size": 354020,
-  "notes": "新增：6 套主题配色（设置 › 外观），默认改为墨蓝\n新增：中英文双语（设置 › 外观 › 语言）\n新增：应用内自动更新\n新增：免费 API Key 图文教程",
-  "notes_en": "New: 6 colour themes (Settings › Appearance)\nNew: English / Chinese interface\nNew: in-app updates\nNew: step-by-step guide for free AI API keys",
+  "versionCode": 5,
+  "versionName": "2.3",
+  "apk": "https://raw.githubusercontent.com/xilol17/bwscan-updates/main/BWScan-2.3.apk",
+  "sha256": "21bb4ac7d70efe0789ac6992d7311a759ce7204ae3ede4798c672c4281fc1b61",
+  "size": 390884,
+  "notes": "新增「证件」模式：拍身份证 / IC / 驾照 / 银行卡的正面和反面，自动裁正成标准证件大小，正反面排在同一张 A4 上导出 PDF 或图片。\n· 首页点「证件」，按提示先拍正面、再拍反面（也可从相册选两张照片）\n· 可选实际尺寸（85.6 × 54 mm）或放大 1.5 / 2 倍，打印选「实际大小」即与原件一样大\n· 可加斜向水印，如「仅供 XX 银行开户使用」\n· 可交换正反面、点按单面重新调整",
+  "notes_en": "New ID card mode: photograph the front and back of an ID / IC / driving licence / bank card. Both sides are cropped to the standard card size and placed on one A4 page, exported as PDF or image.\n· Tap \"ID card\" on the home screen, shoot the front, then the back (or pick two photos)\n· Actual size (85.6 × 54 mm) or enlarged 1.5× / 2×; print at \"Actual size\" for a 1:1 copy\n· Optional diagonal watermark, e.g. \"For XX bank account opening only\"\n· Swap sides, or tap a side to adjust it",
   "minVersionCode": 0
 }
